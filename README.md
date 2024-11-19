@@ -1,4 +1,6 @@
-Create a simple Python program that asks the user to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division
+1.Create a simple Python program that asks the user to input two numbers and a mathematical operation (addition, subtraction, multiplication, or division
+
+
     num1 = float(input("Enter the first number: "))
     num2 = float(input("Enter the second number: "))
     operation = input("Choose an operation (addition, subtraction, multiplication, division): ").strip().lower()
